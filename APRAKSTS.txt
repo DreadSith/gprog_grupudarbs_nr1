@@ -4,13 +4,15 @@ Idejiski, tiek izveidota aina, un tajā ievietoti trīs objekti - kubs, un divas
 
 Ainai arī pievieno apgaismojumu un orbit kontroles, un mērogojamību mainot pārlūka izmēru (aina pielāgojas pārlūka izmēram).
 
-Kubam ir piešķirtas tekstūras, kas pārvērš kubu par metamo kauliņu, un tas tiek rotēts.
+Kubam ir piešķirtas tekstūras, kas pātaisa kubu par metamo kauliņu, un tas tiek rotēts.
 
 Pirmo sfēru izmanto, lai piedotu kubam maģisku auru. Kas tiek panākts, par sfēras materiālu izmantojot sheideri, kura skripts ir atrodams index failā. Sfērai arī rotē.
 
-Otro sfēru izmanto skybox izveidei, ielādējot tekstūru. Sfēra arī rotē.
+Otro sfēru izmanto skybox izveidei, ielādējot tekstūru. Sfēra arī rotē.       
 
 Pievienoju arī audio.
+
+Kodā var atrast papildus komentārus.
 
 Izmantotā literatūra:
 https://threejs.org/docs/
