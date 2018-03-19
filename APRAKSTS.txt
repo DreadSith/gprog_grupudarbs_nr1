@@ -1,0 +1,19 @@
+Apraksts "grupu darbam" - Kristīne Graudiņa, IT3. 
+
+Idejiski, tiek izveidota aina, un tajā ievietoti trīs objekti - kubs, un divas sfēras. 
+
+Ainai arī pievieno apgaismojumu un orbit kontroles, un mērogojamība mainot pārlūka izmēru (aina pielāgojas pārlūka izmēram).
+
+Kubam ir piešķirtas tekstūras, kas pārvērš kubu par metamo kauliņu, un tas tiek rotēts.
+
+Pirmo sfēru izmanto, lai piedotu kubam maģisku auru. Kas tie panākts, par sfēras materiālu izmantojot sheideri, kura skripts ir atrodams index failā. Sfērai arī rotē.
+
+Otro sfēru izmanto skybox izveidei, ielādējot tekstūru. Sfēra arī rotē.
+
+Pievienoju arī audio.
+
+Izmantotā literatūra:
+https://threejs.org/docs/
+https://github.com/stemkoski/stemkoski.github.com
+https://github.com/stemkoski/stemkoski.github.com/blob/master/Three.js/Shader-Glow.html //šeit atradu sheideri
+https://www.youtube.com/playlist?list=PLRtjMdoYXLf6mvjCmrltvsD0j12ZQDMfE
