@@ -80,7 +80,7 @@ audioLoader.load( 'space.mp3', function( buffer ) {
     skysphere = new THREE.Mesh( geometry, material );
     scene.add(skysphere);		
 
-//scene logic, for cube, glow sphere, an skybox
+//scene logic, for cube, glow sphere, and skybox
 	var update = function()
 {
 	cube.rotation.x += 0.01;
